@@ -11,3 +11,5 @@ Cargo.lock
 
 *.dtb
 *.xsa
+*.ld
+*.img
