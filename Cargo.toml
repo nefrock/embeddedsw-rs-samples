@@ -17,6 +17,6 @@ kyewords = ["zynq", "embedded"]
 
 [dependencies]
 embeddedsw-rs = { version = "0.1.0", git = "https://github.com/nefrock/embeddedsw-rs.git", branch = "master", features = ["xilffs", "xalloc"] }
-
+cstr_core = "0.2.4"
 
 
